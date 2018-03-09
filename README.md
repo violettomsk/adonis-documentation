@@ -9,7 +9,7 @@ The easiest thing to do.
 
 1. **Clone the repo**
 ```
-git clone git@github.com/adonisjs/adonis-documentation
+git clone git@github.com:adonisjs/adonis-documentation.git
 ```
 2. **Cd and Run Setup**
 ```bash
